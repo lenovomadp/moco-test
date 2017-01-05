@@ -1,0 +1,8 @@
+
+[
+
+ { "context": "/v1/tenants/lenovo/apps/\\w+", "include": "./services/service01.json" }, 
+
+ { "context": "/v1/tenants/lenovo/apps/\\w+", "include": "./services/service02.json" } 
+
+]
